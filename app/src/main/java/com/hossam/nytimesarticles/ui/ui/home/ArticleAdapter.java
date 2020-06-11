@@ -1,4 +1,4 @@
-package com.hossam.nytimesarticles.ui.ui;
+package com.hossam.nytimesarticles.ui.ui.home;
 
 import android.content.Context;
 import android.content.Intent;

@@ -15,7 +15,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.hossam.nytimesarticles.R;
 import com.hossam.nytimesarticles.ui.network.model.ArticleResponse;
 import com.hossam.nytimesarticles.ui.network.view_model.ArticleViewModel;
-import com.hossam.nytimesarticles.ui.ui.ArticleAdapter;
 
 import java.util.ArrayList;
 import java.util.List;
